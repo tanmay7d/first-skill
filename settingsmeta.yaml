@@ -7,7 +7,7 @@ skillMetadata:
           type: text
           label: Setting Friendly Display Name
           value: ""
-          placeholder: demo prompt in the input box
+          placeholder: "Type Here or Speak"
     - name: Login << Name of another section
       fields:
         - type: label
